@@ -12,3 +12,6 @@
 
 
 ![image](/static/images/second.png)
+
+## Summary
+> In conclusion this project was an example(and a training) of how to perform analysis and visulization together by using html and javascript. Additional filters were added to help the search through larger data. Html process( like a pseudo code) designed at the beginning and all the performance applied through it to achieve the similar layout. 
