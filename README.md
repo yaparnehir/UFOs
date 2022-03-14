@@ -6,4 +6,9 @@
 ## Results 
 > Below images are screenshots from the webpage that was created during the project.
 * First one is general look
-* Second one is how to perform filtered analysis
+* Second one is how to perform filtered analysis by Ny state filter
+
+![image](/static/images/first.png)
+
+
+![image](/static/images/second.png)
